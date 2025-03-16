@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Indore, Madhya Pradesh, India ',
   github: 'https://github.com/Huzaifa-Quadri',
   facebook: '#',
-  linkedIn: 'www.linkedin.com/in/huzaifa-quadri-271a31250',
+  linkedIn: 'https://linkedin.com/in/huzaifa-quadri-271a31250',
   twitter: '#',
   stackOverflow: 'https://stackoverflow.com/users/25985984/crazyflutterdev',
   leetcode: "https://leetcode.com/u/QUick_learner01/",
